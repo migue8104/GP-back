@@ -1,0 +1,1 @@
+package co.com.park.gp.data.dao.entity.parqueadero;
